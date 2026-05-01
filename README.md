@@ -1,6 +1,7 @@
 ## &#x20;Parking Lot Management System
 
 // Submitted By: Muhammad Shoaib (023-25-0106)
+// Individual Project
 
 //  Code compilation guide:
 //  Set path -> then ->  javac Main.java vehicle\*.java model\*.java
