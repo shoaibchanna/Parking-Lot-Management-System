@@ -6,6 +6,7 @@
 //  Set path -> then ->  javac Main.java vehicle\*.java model\*.java
 //  Run Main ->  Main.java
 //  the demo video is in the zipped folder. ss
+//  GITHUB:  https://github.com/shoaibchanna/Parking-Lot-Management-System
 
 \---
 
