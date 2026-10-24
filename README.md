@@ -9,9 +9,6 @@
 //  the demo video is in the zipped folder. ss
 //  GITHUB:  https://github.com/shoaibchanna/Parking-Lot-Management-System
 
-// Link for demo Video: https://drive.google.com/file/d/1R_2guWgqIQpKJae7juWzFSAQZqwKAC2R/view?usp=sharing
-
-\---
 
 
 
